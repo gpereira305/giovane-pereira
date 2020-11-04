@@ -1005,6 +1005,10 @@ padding-bottom: 20px;
 		margin-top: 50%;
 	}
 
+	.main-buttons {
+		height: 50vh;
+	}
+
 	.first-content p {
 		font-size: 16px;
 		margin-top: 12%;
